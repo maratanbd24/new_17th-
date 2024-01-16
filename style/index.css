@@ -261,6 +261,10 @@ main{
          
     }
 
+    .feature-content .card{
+        padding: 10px;
+    }
+
     .section-tittle{
         padding: 10px;
     }
