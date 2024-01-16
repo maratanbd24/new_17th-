@@ -263,6 +263,7 @@ main{
 
     .feature-content .card{
         padding: 10px;
+        padding-top: 5px;
     }
 
     .section-tittle{
