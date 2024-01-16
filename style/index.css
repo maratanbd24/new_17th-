@@ -261,6 +261,10 @@ main{
          
     }
 
+    .section-tittle{
+        padding: 10px;
+    }
+
     .feature-img img{
         width: 90%;
         margin-left: 0;
